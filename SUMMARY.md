@@ -2,18 +2,18 @@
 
 * [What is MyProduct?](README.md)
 
-## Guides
+## Cơ bản
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Creating your first project](co-ban/creating-your-first-project.md)
+* [Creating your first task](co-ban/creating-your-first-task.md)
+* [Advanced permissions](co-ban/advanced-permissions.md)
 
-## Fundamentals
+## Công cụ marketing
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](cong-cu-marketing/projects.md)
+* [Members](cong-cu-marketing/members.md)
+* [Task Lists](cong-cu-marketing/task-lists.md)
+* [Tasks](cong-cu-marketing/tasks.md)
 
 ## Use Cases
 
