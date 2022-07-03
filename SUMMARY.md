@@ -8,6 +8,14 @@
 * [Creating your first task](co-ban/creating-your-first-task.md)
 * [Advanced permissions](co-ban/advanced-permissions.md)
 
+***
+
+* [TẠO TÀI KHOẢN MỚI](tao-tai-khoan-moi.md)
+* [ĐĂNG NHẬP](dang-nhap.md)
+* [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
+* [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
+* [Page 1](page-1.md)
+
 ## Công cụ marketing
 
 * [Projects](cong-cu-marketing/projects.md)
