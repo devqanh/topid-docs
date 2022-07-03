@@ -1,5 +1,7 @@
 # What is MyProduct?
 
+
+
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
 {% endhint %}
@@ -50,20 +52,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="cong-cu-marketing/projects.md" %}
-[projects.md](cong-cu-marketing/projects.md)
+{% content-ref url="5.-thong-ke-nguoi-truy-cap/truy-cap-trang-he-thong.md" %}
+[truy-cap-trang-he-thong.md](5.-thong-ke-nguoi-truy-cap/truy-cap-trang-he-thong.md)
 {% endcontent-ref %}
 
-{% content-ref url="cong-cu-marketing/members.md" %}
-[members.md](cong-cu-marketing/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="cong-cu-marketing/task-lists.md" %}
-[task-lists.md](cong-cu-marketing/task-lists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="cong-cu-marketing/tasks.md" %}
-[tasks.md](cong-cu-marketing/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -14,23 +14,21 @@
 * [ĐĂNG NHẬP](dang-nhap.md)
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
-* [Test](page-1.md)
+* [Page 1](page-1.md)
 
-## Công cụ marketing
+## 5. Thống kê người truy cập
 
-* [Projects](cong-cu-marketing/projects.md)
-* [Members](cong-cu-marketing/members.md)
-* [Task Lists](cong-cu-marketing/task-lists.md)
-* [Tasks](cong-cu-marketing/tasks.md)
+* [Truy cập trang hệ thống](5.-thong-ke-nguoi-truy-cap/truy-cap-trang-he-thong.md)
+* [Chọn tính năng "Thống kê"](5.-thong-ke-nguoi-truy-cap/chon-tinh-nang-thong-ke.md)
 
-## Use Cases
+## 4. Công cụ Marketing
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Gửi thông báo chủ động](4.-cong-cu-marketing/gui-thong-bao-chu-dong/README.md)
+  * [Figma Integration](4.-cong-cu-marketing/gui-thong-bao-chu-dong/figma-integration.md)
+* [Quay số may mắn](4.-cong-cu-marketing/quay-so-may-man/README.md)
+  * [GitHub Integration](4.-cong-cu-marketing/quay-so-may-man/github-integration.md)
+* [Tích điểm](4.-cong-cu-marketing/tich-diem/README.md)
+  * [Intercom Integration](4.-cong-cu-marketing/tich-diem/intercom-integration.md)
 
 ## Extras
 
