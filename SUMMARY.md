@@ -14,7 +14,7 @@
 * [ĐĂNG NHẬP](dang-nhap.md)
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
-* [Page 1](page-1.md)
+* [Vincare test](vincare-test.md)
 
 ## 5. Thống kê người truy cập
 
