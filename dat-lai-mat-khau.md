@@ -14,7 +14,7 @@ Nhấn chọn nút "Đăng nhập" tại giao diện trang chủ TOPID để tru
 
 Chọn "Quên mật khẩu" tại góc dưới bên phải giao diện đăng nhập, sau đó nhập lại số điện thoại của bạn và chọn "Gửi mã" để xác minh SĐT.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 ### Bước 3: Nhập mật khẩu mới&#x20;
 
@@ -22,5 +22,5 @@ Nhập mật khẩu mới và xác minh lại, sau đó nhấn nút "Đổi mậ
 
 > **Ghi chú:** Mật khẩu nên có ít nhất 6 ký tự bao gồm chữ số, chữ viết hoa và chữ thường
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
