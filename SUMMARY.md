@@ -1,6 +1,7 @@
 # Table of contents
 
-* [TẠO TÀI KHOẢN MỚI](README.md)
+* [Hướng dẫn sử dụng cơ bản](README.md)
+* [TẠO TÀI KHOẢN MỚI](<README (1).md>)
 * [ĐĂNG NHẬP](dang-nhap.md)
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
