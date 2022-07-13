@@ -12,4 +12,4 @@ Nhập số điện thoại và mật khẩu mà bạn đã đăng ký tài kho�
 
 Chọn "Giữ đăng nhập" để hệ thống tự động đăng nhập trong cách lần truy cập sau này. Sau đó nhấn nút "Đăng nhập" để hoàn tất.
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<.gitbook/assets/image (14) (1).png>)

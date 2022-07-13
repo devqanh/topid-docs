@@ -2,7 +2,7 @@
 
 ### Bước 1: Truy cập trang hệ thống và chọn Dữ liệu khách hàng
 
-![](<../.gitbook/assets/image (19).png>)
+![](<.gitbook/assets/image (19).png>)
 
 ### Bước 2: Chọn "Thêm khách hàng"
 
@@ -12,7 +12,7 @@ Ngoài ra bạn có thể xóa, sửa, hoặc thêm khách hàng bằng cách ch
 
 Chọn **Thêm khách hàng** để cập nhật thêm các khách hàng mới
 
-![](<../.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12).png>)
 
 ### Bước 4: Nhập thông tin khách hàng để lưu trữ
 
@@ -20,5 +20,5 @@ Nhập những thông tin cần thiết để lưu trữ khách hàng mới
 
 Sau khi hoàn tất nhập hãy nhấn vào **Thêm mới**
 
-![](<../.gitbook/assets/image (33).png>)
+![](<.gitbook/assets/image (33).png>)
 
