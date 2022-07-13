@@ -4,17 +4,17 @@
 
 Chọn vào **Tạo liên kết mới**
 
-![](<.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ### Bước 2: Chọn ngành dịch vụ, tên website, tên miền
 
 Chọn loại ngành dịch vụ làm đẹp mà bạn muốn&#x20;
 
-![](<.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 Tiếp đến hãy nhập tên website thương hiệu của mình và nhập tên miền
 
-![](<.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 ### Bước 3: Tùy chỉnh thông tin và giao diện website
 
@@ -24,11 +24,11 @@ Tiếp đến hãy nhập tên website thương hiệu của mình và nhập t�
 
 Tại phần này bạn sẽ tiến hành cài đặt những thông tin cơ bản như ngành dịch vụ, số điện thoại, tên website, địa chỉ, slogan, giao diện, avatar....
 
-![](<.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 Sau khi nhập đầy đủ thông tin bạn hãy nhấn vào **Cập nhật**
 
-![](<.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 **Phần: Nâng cao**
 
@@ -42,19 +42,19 @@ Cuối cùng là cập nhật hình ảnh dịch vụ/sản phẩm mà bạn mu�
 
 Tương tự hãy nhấn **Cập nhật** để hoàn tất
 
-![](<.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 #### <mark style="color:orange;">DỊCH VỤ/SẢN PHẨM</mark>
 
 Thêm mới các mục dịch vụ và sản phẩm của mình bằng cách chọn lệnh **Thêm mới**
 
-![](<.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Ở từng mục bạn có thể nhập thông tin về Tên dịch vụ/sản phẩm, giá bán ra, giá giảm, ảnh dịch vụ, và mô tả dịch vụ
 
 Bấm **Cập nhật** sau khi hoàn thành nhập thông tin của dịch vụ/sản phẩm
 
-![](<.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 #### <mark style="color:orange;">ĐÀO TẠO/TUYỂN DỤNG</mark>
 
@@ -62,21 +62,21 @@ Thêm mới các mục đào tạo và tuyển dụng của mình bằng cách c
 
 
 
-![](<.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 Ở từng mục bạn có thể nhập thông tin về Tên khóa học/tên công việc, giá, giảng viên, ảnh khóa học, và mô tả
 
 Bấm **Cập nhật** sau khi hoàn thành nhập thông tin của đào tạo/tuyển dụng
 
-![](<.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 ### Bước 4: Nhấn cập nhật để hoàn tất
 
 Những chi tiết cập nhật mà bạn tiến hành đều được thể hiện trực quan nhất thông qua giao diện điện thoại ảo nằm bên phải
 
-![](<.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 Sau khi nhập và kiểm tra lại bạn hãy chọn lệnh **Cập nhật** tại Cài đặt để hoàn thành và lưu lại nội dung website
 
-![](<.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10).png>)
 
