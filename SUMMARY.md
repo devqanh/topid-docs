@@ -21,5 +21,5 @@
 
 ## Thẻ thông minh
 
-* [Đặt mua thẻ](the-thong-minh/dat-mua-the.md)
-* [Kích hoạt thẻ](the-thong-minh/kich-hoat-the.md)
+* [ĐẶT MUA THẺ](the-thong-minh/dat-mua-the.md)
+* [KÍCH HOẠT THẺ](the-thong-minh/kich-hoat-the.md)
