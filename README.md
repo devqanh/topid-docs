@@ -1,5 +1,21 @@
 # Hướng dẫn sử dụng cơ bản
 
-{% embed url="https://huongdan.topid.vn/tinh-nang-co-ban/tao-tai-khoan-moi" %}
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
 
-{% embed url="https://huongdan.topid.vn/tinh-nang-co-ban/dang-nhap" %}
+{% content-ref url="dang-nhap.md" %}
+[dang-nhap.md](dang-nhap.md)
+{% endcontent-ref %}
+
+{% content-ref url="dat-lai-mat-khau.md" %}
+[dat-lai-mat-khau.md](dat-lai-mat-khau.md)
+{% endcontent-ref %}
+
+{% content-ref url="lua-chon-goi-dich-vu.md" %}
+[lua-chon-goi-dich-vu.md](lua-chon-goi-dich-vu.md)
+{% endcontent-ref %}
+
+{% content-ref url="tao-website-thuong-hieu.md" %}
+[tao-website-thuong-hieu.md](tao-website-thuong-hieu.md)
+{% endcontent-ref %}
