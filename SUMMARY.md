@@ -21,5 +21,7 @@
 
 ## Thẻ thông minh
 
-* [ĐẶT MUA THẺ](the-thong-minh/dat-mua-the.md)
-* [KÍCH HOẠT THẺ](the-thong-minh/kich-hoat-the.md)
+* [GIỚI THIỆU](the-thong-minh/gioi-thieu.md)
+* [THIẾT KẾ THẺ](the-thong-minh/thiet-ke-the.md)
+* [CÁCH SỬ DỤNG](the-thong-minh/cach-s-dung.md)
+* [ĐẶT MUA THẺ](the-thong-minh/dat-mua-the.md)
