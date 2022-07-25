@@ -14,5 +14,5 @@ Sau khi giao diện chính của **Trang hệ thống** đưaợc hiện ra. B�
 
 Tại mục này có thể xem được chi tiết thống kê về lượt truy cập đến từ đâu và truy cập vào những gì. Đặc biệt, có thể xem theo dạng từng ngày, tháng, và năm
 
-![](<.gitbook/assets/image (6) (1).png>)
+![](<.gitbook/assets/image (6) (1) (1).png>)
 

@@ -4,7 +4,7 @@
 
 
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### Bước 2: Chọn tính năng "Công cụ Marketing"
 

@@ -20,5 +20,5 @@ Tại phần Dữ liệu khách hàng bạn có thể nắm được thông tin 
 
 Ngoài ra bạn có thể xóa, sửa, hoặc thêm khách hàng
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 

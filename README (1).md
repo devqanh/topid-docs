@@ -22,4 +22,4 @@ Nhấn vào liên kết "điều khoản" để đọc các điều khoản sử
 
 Nhấn "Đăng ký" để hoàn tất.
 
-![](<.gitbook/assets/image (15) (1).png>)
+![](<.gitbook/assets/image (15) (1) (1).png>)

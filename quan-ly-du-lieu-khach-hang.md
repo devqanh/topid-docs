@@ -12,7 +12,7 @@ Ngoài ra bạn có thể xóa, sửa, hoặc thêm khách hàng bằng cách ch
 
 Chọn **Thêm khách hàng** để cập nhật thêm các khách hàng mới
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 ### Bước 4: Nhập thông tin khách hàng để lưu trữ
 

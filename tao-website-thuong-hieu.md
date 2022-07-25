@@ -68,7 +68,7 @@ Thêm mới các mục đào tạo và tuyển dụng của mình bằng cách c
 
 Bấm **Cập nhật** sau khi hoàn thành nhập thông tin của đào tạo/tuyển dụng
 
-![](<.gitbook/assets/image (15).png>)
+![](<.gitbook/assets/image (15) (1).png>)
 
 ### Bước 4: Nhấn cập nhật để hoàn tất
 
