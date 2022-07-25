@@ -2,9 +2,13 @@
 
 ### Thẻ Platinum
 
-Thẻ Platinum - Chiếc thẻ của sự đẳng cấp, tinh tế và tràn đầy sự hoa mĩ
+<mark style="color:orange;">**Thẻ Platinum - Chiếc thẻ của sự đẳng cấp, tinh tế và tràn đầy sự hoa mĩ**</mark>
 
-Họa tiết hoa được cách điệu độc đáo chính là điểm nhấn cho chiếc thẻ này. Phần hoa cách điệu được in chìm trên toàn bộ bề mặt thẻ và in nổi với màu vàng đậm ở góc dưới bên phải của thẻ
+Giá trị: Thẻ Platinum là dòng thẻ có giá trị cao nhất trong bộ thẻ Thông minh tại TOPID
+
+Thiết kế: Họa tiết hoa được cách điệu độc đáo chính là điểm nhấn cho chiếc thẻ này. Phần hoa cách điệu được in chìm trên toàn bộ bề mặt thẻ và in nổi với màu vàng đậm ở góc dưới bên phải của thẻ
+
+
 
 ![](<../.gitbook/assets/image (12).png>)
 
