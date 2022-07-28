@@ -14,7 +14,7 @@ Click chọn vào **Tích điểm** và **Bảo mật OTP** để kích hoạt �
 
 Giao diện **Quản lý thông tin điểm của khách hàng** hiện ra, hãy chọn vào **Khách hàng trúng thưởn**g để xem được dữ liệu khách hàng
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 Tại phần Dữ liệu khách hàng bạn có thể nắm được thông tin của khách hàng, nguồn, ngày đăng ký, nhận thông báo và số điểm tích lũy của họ
 

@@ -4,7 +4,7 @@
 
 Tại trang chủ của **TOPID.VN** bạn hãy chọn vào **Trang hệ thống**&#x20;
 
-![](<.gitbook/assets/image (1) (1) (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 ### Bước 2: Chọn tính năng "Thống kê"
 

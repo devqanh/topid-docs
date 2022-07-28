@@ -2,5 +2,5 @@
 
 Sau khi chọn vào loại thẻ mà bạn muốn đặt thì phiếu thông tin sẽ được hiện ra. Bạn cần điền đầy đủ những thông tin này và chọn **Đặt Hàng** để hoàn tất quá trình đặt thẻ
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 

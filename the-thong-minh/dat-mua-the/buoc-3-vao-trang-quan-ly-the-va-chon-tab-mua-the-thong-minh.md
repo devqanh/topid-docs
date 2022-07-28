@@ -2,4 +2,4 @@
 
 Tại giao diện chính của Bảng điều khiển hãy chọn vào **MUA THẺ THÔNG MINH**
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (11).png>)

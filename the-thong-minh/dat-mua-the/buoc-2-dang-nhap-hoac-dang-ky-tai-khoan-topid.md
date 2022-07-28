@@ -4,4 +4,4 @@ Chọn **Đăng nhập** nếu bạn đã có tài khoản TOPID
 
 Chọn **Đăng ký** nếu chưa có tài khoản TOPID
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (34).png>)

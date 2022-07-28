@@ -10,7 +10,7 @@ Thiết kế: Họa tiết hoa được cách điệu độc đáo chính là đ
 
 
 
-![](<../.gitbook/assets/image (12) (2).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 ### Thẻ Golden Lotus
 
@@ -30,7 +30,7 @@ Giá trị: Thẻ Black Diamond là dòng thẻ có giá trị cao thứ ba tron
 
 Thiết kế: Chiếc thẻ này được phủ hoàn toàn bởi một lớp họa tiết gợn sóng tạo cảm giác bóng bẩy như những mảnh vải lụa là. Màu đen của thẻ tạo nên sự huyền bí nhưng tinh tế, chúng làm toát lên vẻ sang trọng khi cầm trên tay.&#x20;
 
-![](<../.gitbook/assets/image (6) (2).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 
 
@@ -40,7 +40,7 @@ Thiết kế: Chiếc thẻ này được phủ hoàn toàn bởi một lớp h�
 
 Giá trị: Thẻ Black Card là dòng thẻ cơ bản trong bộ thẻ Thông minh tại TOPID
 
-
+Thiết kế: Chiếc thẻ này được phủ hoàn toàn bởi một lớp họa tiết gợn sóng tạo cảm giác bóng bẩy như những mảnh vải lụa là
 
 
 

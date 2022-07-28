@@ -2,4 +2,4 @@
 
 Hãy truy cập vào trang chủ của website **TOPID.VN**
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (6).png>)

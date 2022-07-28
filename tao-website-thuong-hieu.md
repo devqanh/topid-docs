@@ -48,13 +48,13 @@ Tương tự hãy nhấn **Cập nhật** để hoàn tất
 
 Thêm mới các mục dịch vụ và sản phẩm của mình bằng cách chọn lệnh **Thêm mới**
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (2).png>)
 
 Ở từng mục bạn có thể nhập thông tin về Tên dịch vụ/sản phẩm, giá bán ra, giá giảm, ảnh dịch vụ, và mô tả dịch vụ
 
 Bấm **Cập nhật** sau khi hoàn thành nhập thông tin của dịch vụ/sản phẩm
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (2).png>)
 
 #### <mark style="color:orange;">ĐÀO TẠO/TUYỂN DỤNG</mark>
 
@@ -78,5 +78,5 @@ Những chi tiết cập nhật mà bạn tiến hành đều được thể hi�
 
 Sau khi nhập và kiểm tra lại bạn hãy chọn lệnh **Cập nhật** tại Cài đặt để hoàn thành và lưu lại nội dung website
 
-![](<.gitbook/assets/image (10) (1).png>)
+![](<.gitbook/assets/image (10).png>)
 
