@@ -22,5 +22,5 @@ Nhập mật khẩu mới và xác minh lại, sau đó nhấn nút "Đổi mậ
 
 > **Ghi chú:** Mật khẩu nên có ít nhất 6 ký tự bao gồm chữ số, chữ viết hoa và chữ thường
 
-![](<.gitbook/assets/image (10) (1).png>)
+![](<.gitbook/assets/image (10) (1) (1).png>)
 

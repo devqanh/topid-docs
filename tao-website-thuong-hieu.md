@@ -78,5 +78,5 @@ Những chi tiết cập nhật mà bạn tiến hành đều được thể hi�
 
 Sau khi nhập và kiểm tra lại bạn hãy chọn lệnh **Cập nhật** tại Cài đặt để hoàn thành và lưu lại nội dung website
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
