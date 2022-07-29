@@ -2,6 +2,8 @@
 
 Sau khi chạm, thông báo pop-up sẽ được hiển thị ngay trên màn hình
 
+![Ảnh minh họa tạm thời](<../../../.gitbook/assets/image (14).png>)
+
 Bạn hãy nhấn chọn vào nó để hiển thị ngay trang website của mình
 
-![](../../../.gitbook/assets/image.png)
+![Ảnh minh họa tạm thời](../../../.gitbook/assets/image.png)

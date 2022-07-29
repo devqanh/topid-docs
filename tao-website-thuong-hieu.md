@@ -42,7 +42,7 @@ Cuối cùng là cập nhật hình ảnh dịch vụ/sản phẩm mà bạn mu�
 
 Tương tự hãy nhấn **Cập nhật** để hoàn tất
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (2).png>)
 
 #### <mark style="color:orange;">DỊCH VỤ/SẢN PHẨM</mark>
 
@@ -74,7 +74,7 @@ Bấm **Cập nhật** sau khi hoàn thành nhập thông tin của đào tạo/
 
 Những chi tiết cập nhật mà bạn tiến hành đều được thể hiện trực quan nhất thông qua giao diện điện thoại ảo nằm bên phải
 
-![](<.gitbook/assets/image (17).png>)
+![](<.gitbook/assets/image (17) (2).png>)
 
 Sau khi nhập và kiểm tra lại bạn hãy chọn lệnh **Cập nhật** tại Cài đặt để hoàn thành và lưu lại nội dung website
 

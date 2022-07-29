@@ -32,7 +32,7 @@ Chọn vào dự án mà bạn muốn tạo chiến dịch thông báo
 
 Nhập nội dung thông báo&#x20;
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (2).png>)
 
 ### Bước 6: Đẩy thông báo để hoàn tất
 

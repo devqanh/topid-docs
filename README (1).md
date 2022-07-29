@@ -6,7 +6,7 @@
 
 Truy cập vào website TOPID trên điện thoại hoặc PC theo đường link sau: [https://topid.vn/](https://topid.vn/)
 
-![Giao diện trang chủ TOPID](<.gitbook/assets/image (4) (1).png>)
+![Giao diện trang chủ TOPID](<.gitbook/assets/image (4) (1) (1).png>)
 
 ### Bước 2: Chọn "Đăng ký" và xác minh số điện thoại
 
