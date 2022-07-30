@@ -16,7 +16,7 @@ Chọn vào tính năng **Công cụ Marketing**
 
 Chọn vào mục **Gửi thông báo online**
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 ### Bước 4: Chọn "Thêm thông báo"
 

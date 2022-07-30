@@ -2,7 +2,7 @@
 
 Chọn tính năng <mark style="color:orange;">**Quét mã QR**</mark> trong Zalo&#x20;
 
-![Ảnh minh họa tạm thời](<../../.gitbook/assets/image (5).png>)
+![Ảnh minh họa tạm thời](<../../.gitbook/assets/image (5) (3).png>)
 
 Sau đó hãy quét mã QR trên thẻ TOPID
 
