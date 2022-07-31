@@ -2,7 +2,7 @@
 
 ### Bước 1: Chọn "Quay số may mắn" trong tính năng Công cụ Marketing
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 ### Bước 2: Thiết lập các thông số cho vòng quay
 

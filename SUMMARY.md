@@ -38,5 +38,6 @@
     * [BƯỚC 4: CHỌN MẪU THẺ MÀ BẠN MUỐN ĐẶT HÀNG](the-thong-minh/dat-mua-the/dat-mua-the-thong-minh/buoc-4-chon-mau-the-ma-ban-muon-dat-hang.md)
     * [BƯỚC 5: NHẬP CÁC THÔNG TIN YÊU CẦU ĐỂ TIẾN HÀNH  ĐẶT THẺ VÀ HOÀN TẤT](the-thong-minh/dat-mua-the/dat-mua-the-thong-minh/buoc-5-nhap-cac-thong-tin-yeu-cau-de-tien-hanh-dat-the-va-hoan-tat.md)
   * [KÍCH HOẠT THẺ](the-thong-minh/dat-mua-the/kich-hoat-the/README.md)
-    * [Page 1](the-thong-minh/dat-mua-the/kich-hoat-the/page-1.md)
-    * [Page 2](the-thong-minh/dat-mua-the/kich-hoat-the/page-2.md)
+    * [BƯỚC 1: CHỌN TAB MUA THẺ THÔNG MINH](the-thong-minh/dat-mua-the/kich-hoat-the/buoc-1-chon-tab-mua-the-thong-minh.md)
+    * [BƯỚC 2: CHỌN TAB QUẢN LÝ THẺ](the-thong-minh/dat-mua-the/kich-hoat-the/buoc-2-chon-tab-quan-ly-the.md)
+    * [BƯỚC 3: TIẾN HÀNH KÍCH HOẠT THẺ](the-thong-minh/dat-mua-the/kich-hoat-the/buoc-3-tien-hanh-kich-hoat-the.md)
