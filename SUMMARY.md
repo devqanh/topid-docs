@@ -16,7 +16,7 @@
   * [GỬI THÔNG BÁO CHỦ ĐỘNG](tinh-nang-nang-cao/cong-cu-marketing/g-i-thong-bao-chu-dong.md)
   * [QUAY SỐ MAY MẮN](tinh-nang-nang-cao/cong-cu-marketing/quay-so-may-man.md)
   * [TÍCH ĐIỂM](tinh-nang-nang-cao/cong-cu-marketing/tich-diem.md)
-* [QUẢN LÝ DỮ LIỆU KHÁCH HÀNG](quan-ly-du-lieu-khach-hang.md)
+  * [QUẢN LÝ DỮ LIỆU KHÁCH HÀNG](tinh-nang-nang-cao/cong-cu-marketing/quan-ly-du-lieu-khach-hang.md)
 * [QUẢN LÝ DỮ LIỆU ĐẶT LỊCH](quan-ly-du-lieu-dat-lich.md)
 
 ## Thẻ thông minh
