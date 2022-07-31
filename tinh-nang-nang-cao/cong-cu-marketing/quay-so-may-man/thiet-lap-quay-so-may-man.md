@@ -1,8 +1,8 @@
-# QUAY SỐ MAY MẮN
+# THIẾT LẬP QUAY SỐ MAY MẮN
 
 ### Bước 1: Chọn "Quay số may mắn" trong tính năng Công cụ Marketing
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1).png>)
 
 ### Bước 2: Thiết lập các thông số cho vòng quay
 
@@ -20,12 +20,12 @@ Tại giao diện thiết lập vòng quay may mắn bạn có thể:
 
 
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28).png>)
 
 ### Bước 3: Nhấn "Cập nhật" để hoàn tất
 
 Sau khi hoàn tất các thông tin cần thiết, hãy nhấn vào **Cập nhật** để khởi tạo vòng quay
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9).png>)
 
 ##
