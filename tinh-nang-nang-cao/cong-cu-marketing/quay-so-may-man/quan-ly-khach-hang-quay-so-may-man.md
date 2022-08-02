@@ -6,7 +6,7 @@ Tại giao diện chính của Bảng điều khiển, chọn vào **Dữ liệu
 
 
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 ## Bước 2: Kiểm tra thông tin khách hàng quay số&#x20;
 
@@ -16,4 +16,4 @@ Tại giao diện **Dữ liệu đặt lịch/mua hàng**, chọn vào mục **C
 
 Toàn bộ dữ liệu liên quan đến khách hàng đã quay số may mắn sẽ được hiện ra giúp bạn có thể theo dõi chi tiết nhất
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (10).png>)
