@@ -28,7 +28,7 @@ Chọn vào mục **Thêm thông báo**
 
 Chọn vào dự án mà bạn muốn tạo chiến dịch thông báo
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 Nhập nội dung thông báo&#x20;
 

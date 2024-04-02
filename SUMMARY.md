@@ -11,6 +11,7 @@
 * [Tạo đơn hàng](tinh-nang-co-ban/tao-don-hang/README.md)
   * [Cài đặt extension](tinh-nang-co-ban/tao-don-hang/cai-dat-extension.md)
   * [Tạo đơn bằng extension](tinh-nang-co-ban/tao-don-hang/tao-don-bang-extension.md)
+  * [Thêm chi phí khác cho hóa đơn](tinh-nang-co-ban/tao-don-hang/them-chi-phi-khac-cho-hoa-don.md)
   * [Thanh toán đơn hàng](tinh-nang-co-ban/tao-don-hang/thanh-toan-don-hang.md)
 
 ## Cấu hình nâng cao

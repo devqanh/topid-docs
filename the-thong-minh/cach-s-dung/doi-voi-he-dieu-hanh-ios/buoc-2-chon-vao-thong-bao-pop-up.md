@@ -6,4 +6,4 @@ Sau khi chạm, thông báo pop-up sẽ được hiển thị ngay trên màn h�
 
 Bạn hãy nhấn chọn vào nó để hiển thị ngay trang website của mình
 
-![Ảnh minh họa tạm thời](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![Ảnh minh họa tạm thời](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)

@@ -8,9 +8,9 @@
 
 ### Bước 2: Sử dụng máy quét mã vạch hoặc camera điện thoại&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Máy quét mã vạch sử dụng không dây trên máy tính và điện thoại do topID cung cấp</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Máy quét mã vạch sử dụng không dây trên máy tính và điện thoại do topID cung cấp</p></figcaption></figure>
 
 * Sau khi quét sẽ hiện popup mã vận đơn và thay đổi trạng thái, bấm nút **Cập nhật**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
