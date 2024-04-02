@@ -16,6 +16,6 @@
 [lua-chon-goi-dich-vu.md](lua-chon-goi-dich-vu.md)
 {% endcontent-ref %}
 
-{% content-ref url="tao-website-thuong-hieu.md" %}
-[tao-website-thuong-hieu.md](tao-website-thuong-hieu.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

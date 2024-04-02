@@ -7,7 +7,6 @@
 * [ĐĂNG NHẬP](dang-nhap.md)
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
-* [TẠO WEBSITE THƯƠNG HIỆU](tao-website-thuong-hieu.md)
 
 ## Tính năng nâng cao
 
