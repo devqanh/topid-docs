@@ -1,2 +1,0 @@
-# ĐẶT MUA THẺ THÔNG MINH
-

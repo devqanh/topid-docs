@@ -6,15 +6,15 @@
 * Hệ thống yêu cầu khai báo đầy đủ kho ở khu vực ở VN và TQ &#x20;
 * Sau bấm nút Lưu
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2: Chọn tính năng "Thống kê"
 
 Sau khi giao diện chính của **Trang hệ thống** đưaợc hiện ra. Bạn hãy chọn vào **Thống kê**&#x20;
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 Tại mục này có thể xem được chi tiết thống kê về lượt truy cập đến từ đâu và truy cập vào những gì. Đặc biệt, có thể xem theo dạng từng ngày, tháng, và năm
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
