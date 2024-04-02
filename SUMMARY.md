@@ -13,6 +13,15 @@
   * [Tạo đơn bằng extension](tinh-nang-co-ban/tao-don-hang/tao-don-bang-extension.md)
   * [Thêm chi phí khác cho hóa đơn](tinh-nang-co-ban/tao-don-hang/them-chi-phi-khac-cho-hoa-don.md)
   * [Thanh toán đơn hàng](tinh-nang-co-ban/tao-don-hang/thanh-toan-don-hang.md)
+  * [Thêm mã vận đơn](tinh-nang-co-ban/tao-don-hang/them-ma-van-don.md)
+* [Tạo khách hàng](tinh-nang-co-ban/tao-khach-hang/README.md)
+  * [Tổng quan Khách hàng](tinh-nang-co-ban/tao-khach-hang/tong-quan-khach-hang.md)
+  * [Tạo khách hàng](tinh-nang-co-ban/tao-khach-hang/tao-khach-hang.md)
+  * [Nạp tiền vào ví khách hàng](tinh-nang-co-ban/tao-khach-hang/nap-tien-vao-vi-khach-hang.md)
+* [Quản lý cộng tác viên](tinh-nang-co-ban/quan-ly-cong-tac-vien/README.md)
+  * [Tổng quan Khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/tong-quan-khach-hang.md)
+  * [Tạo khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/tao-khach-hang.md)
+  * [Nạp tiền vào ví khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/nap-tien-vao-vi-khach-hang.md)
 
 ## Cấu hình nâng cao
 
