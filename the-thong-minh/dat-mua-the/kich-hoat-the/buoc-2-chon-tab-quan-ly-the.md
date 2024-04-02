@@ -2,7 +2,7 @@
 
 Chọn vào Tab <mark style="color:orange;">**Quản lý**</mark> <mark style="color:orange;">**thẻ**</mark>
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (3).png>)
 
 
 

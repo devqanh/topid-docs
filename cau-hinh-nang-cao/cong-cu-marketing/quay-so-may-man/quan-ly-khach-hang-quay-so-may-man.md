@@ -6,7 +6,7 @@ Tại giao diện chính của Bảng điều khiển, chọn vào **Dữ liệu
 
 
 
-![](<../../../.gitbook/assets/image (3) (1) (3).png>)
+![](<../../../.gitbook/assets/image (3) (1) (3) (1).png>)
 
 ## Bước 2: Kiểm tra thông tin khách hàng quay số&#x20;
 

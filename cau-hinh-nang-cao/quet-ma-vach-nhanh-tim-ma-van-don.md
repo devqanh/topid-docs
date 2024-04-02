@@ -4,13 +4,13 @@
 
 ### Bước 1: Truy cập trang quản lý kho
 
-![](<../.gitbook/assets/image (20).png>)
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-### Bước 2: Chọn website của bạn và loại trang cần xem
+### Bước 2: Sử dụng máy quét mã vạch hoặc camera điện thoại&#x20;
 
-Hãy chọn vào trang website mà bạn cần xem, sau đó chọn loại dữ liệu mà bạn muốn kiểm tra
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Máy quét mã vạch sử dụng không dây trên máy tính và điện thoại do topID cung cấp</p></figcaption></figure>
 
-Mặt khác bạn có thể nhập thẳng số điện thoại của khách hàng vào trong phần ô tìm kiếm&#x20;
+* Sau khi quét sẽ hiện popup mã vận đơn và thay đổi trạng thái, bấm nút **Cập nhật**
 
-![](<../.gitbook/assets/image (3) (2) (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

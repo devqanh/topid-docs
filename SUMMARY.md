@@ -8,6 +8,10 @@
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
 * [Quản Lý Kho](tinh-nang-co-ban/quan-ly-kho.md)
+* [Tạo đơn hàng](tinh-nang-co-ban/tao-don-hang/README.md)
+  * [Cài đặt extension](tinh-nang-co-ban/tao-don-hang/cai-dat-extension.md)
+  * [Tạo đơn bằng extension](tinh-nang-co-ban/tao-don-hang/tao-don-bang-extension.md)
+  * [Thanh toán đơn hàng](tinh-nang-co-ban/tao-don-hang/thanh-toan-don-hang.md)
 
 ## Cấu hình nâng cao
 
