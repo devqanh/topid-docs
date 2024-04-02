@@ -19,9 +19,9 @@
   * [Tạo khách hàng](tinh-nang-co-ban/tao-khach-hang/tao-khach-hang.md)
   * [Nạp tiền vào ví khách hàng](tinh-nang-co-ban/tao-khach-hang/nap-tien-vao-vi-khach-hang.md)
 * [Quản lý cộng tác viên](tinh-nang-co-ban/quan-ly-cong-tac-vien/README.md)
-  * [Tổng quan Khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/tong-quan-khach-hang.md)
-  * [Tạo khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/tao-khach-hang.md)
-  * [Nạp tiền vào ví khách hàng](tinh-nang-co-ban/quan-ly-cong-tac-vien/nap-tien-vao-vi-khach-hang.md)
+  * [Thêm mới CTV](tinh-nang-co-ban/quan-ly-cong-tac-vien/them-moi-ctv.md)
+  * [Ghi nhận hoa hồng cho CTV](tinh-nang-co-ban/quan-ly-cong-tac-vien/ghi-nhan-hoa-hong-cho-ctv.md)
+  * [Lịch sử và thao tác rút tiền cho CTV](tinh-nang-co-ban/quan-ly-cong-tac-vien/lich-su-va-thao-tac-rut-tien-cho-ctv.md)
 
 ## Cấu hình nâng cao
 
