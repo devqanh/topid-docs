@@ -7,18 +7,18 @@
 * [ĐĂNG NHẬP](dang-nhap.md)
 * [ĐẶT LẠI MẬT KHẨU](dat-lai-mat-khau.md)
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
+* [Quản Lý Kho](tinh-nang-co-ban/quan-ly-kho.md)
 
-## Tính năng nâng cao
+## Cấu hình nâng cao
 
-* [THỐNG KÊ NGƯỜI TRUY CẬP](thong-ke-nguoi-truy-cap.md)
-* [CÔNG CỤ MARKETING](tinh-nang-nang-cao/cong-cu-marketing/README.md)
-  * [GỬI THÔNG BÁO CHỦ ĐỘNG](tinh-nang-nang-cao/cong-cu-marketing/g-i-thong-bao-chu-dong.md)
-  * [QUAY SỐ MAY MẮN](tinh-nang-nang-cao/cong-cu-marketing/quay-so-may-man/README.md)
-    * [THIẾT LẬP QUAY SỐ MAY MẮN](tinh-nang-nang-cao/cong-cu-marketing/quay-so-may-man/thiet-lap-quay-so-may-man.md)
-    * [QUẢN LÝ KHÁCH HÀNG QUAY SỐ MAY MẮN](tinh-nang-nang-cao/cong-cu-marketing/quay-so-may-man/quan-ly-khach-hang-quay-so-may-man.md)
-  * [TÍCH ĐIỂM](tinh-nang-nang-cao/cong-cu-marketing/tich-diem.md)
-  * [QUẢN LÝ DỮ LIỆU KHÁCH HÀNG](tinh-nang-nang-cao/cong-cu-marketing/quan-ly-du-lieu-khach-hang.md)
-* [QUẢN LÝ DỮ LIỆU ĐẶT LỊCH](quan-ly-du-lieu-dat-lich.md)
+* [CÔNG CỤ MARKETING](cau-hinh-nang-cao/cong-cu-marketing/README.md)
+  * [GỬI THÔNG BÁO CHỦ ĐỘNG](cau-hinh-nang-cao/cong-cu-marketing/g-i-thong-bao-chu-dong.md)
+  * [QUAY SỐ MAY MẮN](cau-hinh-nang-cao/cong-cu-marketing/quay-so-may-man/README.md)
+    * [THIẾT LẬP QUAY SỐ MAY MẮN](cau-hinh-nang-cao/cong-cu-marketing/quay-so-may-man/thiet-lap-quay-so-may-man.md)
+    * [QUẢN LÝ KHÁCH HÀNG QUAY SỐ MAY MẮN](cau-hinh-nang-cao/cong-cu-marketing/quay-so-may-man/quan-ly-khach-hang-quay-so-may-man.md)
+  * [TÍCH ĐIỂM](cau-hinh-nang-cao/cong-cu-marketing/tich-diem.md)
+  * [QUẢN LÝ DỮ LIỆU KHÁCH HÀNG](cau-hinh-nang-cao/cong-cu-marketing/quan-ly-du-lieu-khach-hang.md)
+* [QUÉT MÃ VẠCH NHANH TÌM MÃ VẬN ĐƠN](cau-hinh-nang-cao/quet-ma-vach-nhanh-tim-ma-van-don.md)
 
 ## Thẻ thông minh
 
