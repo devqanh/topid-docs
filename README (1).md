@@ -10,4 +10,4 @@ Nhập chính xác email để sau quên mật khẩu thì hệ thống sẽ g�
 
 Nhấn "Đăng ký" để hoàn tất.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

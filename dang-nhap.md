@@ -12,4 +12,4 @@ Nhập email và mật khẩu mà bạn đã đăng ký tài khoản.
 
 Chọn "Giữ đăng nhập" để hệ thống tự động đăng nhập trong cách lần truy cập sau này. Sau đó nhấn nút "Đăng nhập" để hoàn tất.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Màn hình đăng nhập</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Màn hình đăng nhập</p></figcaption></figure>
