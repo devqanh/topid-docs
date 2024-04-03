@@ -1,13 +1,13 @@
 # Quản lý cộng tác viên
 
-{% content-ref url="../tao-don-hang/cai-dat-extension.md" %}
-[cai-dat-extension.md](../tao-don-hang/cai-dat-extension.md)
+{% content-ref url="them-moi-ctv.md" %}
+[them-moi-ctv.md](them-moi-ctv.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tao-don-hang/cai-dat-extension.md" %}
-[cai-dat-extension.md](../tao-don-hang/cai-dat-extension.md)
+{% content-ref url="ghi-nhan-hoa-hong-cho-ctv.md" %}
+[ghi-nhan-hoa-hong-cho-ctv.md](ghi-nhan-hoa-hong-cho-ctv.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tao-don-hang/cai-dat-extension.md" %}
-[cai-dat-extension.md](../tao-don-hang/cai-dat-extension.md)
+{% content-ref url="lich-su-va-thao-tac-rut-tien-cho-ctv.md" %}
+[lich-su-va-thao-tac-rut-tien-cho-ctv.md](lich-su-va-thao-tac-rut-tien-cho-ctv.md)
 {% endcontent-ref %}

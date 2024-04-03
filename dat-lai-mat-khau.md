@@ -8,19 +8,23 @@ description: >-
 
 ### Bước 1: Vào giao diện đăng nhập tài khoản
 
-Nhấn chọn nút "Đăng nhập" tại giao diện trang chủ TOPID để truy cập vào giao diện đăng nhập tài khoản.
+Chọn **quên mật khẩu**
+
+<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2: Đặt lại mật khẩu
 
-Chọn "Quên mật khẩu" tại góc dưới bên phải giao diện đăng nhập, sau đó nhập lại số điện thoại của bạn và chọn "Gửi mã" để xác minh SĐT.
+Nhập email đã đăng ký bấm vào **Lấy lại mật khẩu**
 
-![](<.gitbook/assets/image (5) (1).png>)
+<figure><img src=".gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-### Bước 3: Nhập mật khẩu mới&#x20;
+### Bước 3: Truy cập link xác thực ở mail
 
-Nhập mật khẩu mới và xác minh lại, sau đó nhấn nút "Đổi mật khẩu" để hoàn tất.
+<figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-> **Ghi chú:** Mật khẩu nên có ít nhất 6 ký tự bao gồm chữ số, chữ viết hoa và chữ thường
+### &#x20;Bấm vào nút Đặt lại mật khẩu&#x20;
 
-![](<.gitbook/assets/image (10) (1).png>)
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+
+* Điền lại mật khẩu và bấm **Đổi mật khẩu**
 
