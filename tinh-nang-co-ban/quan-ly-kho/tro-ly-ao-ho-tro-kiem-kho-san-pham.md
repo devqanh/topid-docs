@@ -5,7 +5,7 @@ description: >-
   chụp ảnh mã vận đơn trên sản phẩm.
 ---
 
-# Trợ lý ảo hỗ trợ kiểm kho sản phẩm
+# Cấu hình Trợ lý ảo hỗ trợ kiểm kho
 
 Trợ lý ảo sẽ tự động đọc mã trên hình ảnh và tìm trong đơn hàng mã vận đơn tương ứng. Đổi trạng thái **về kho VN** đồng thời gửi tin nhắn thông báo tới khách hàng
 

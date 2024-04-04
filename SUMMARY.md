@@ -9,7 +9,7 @@
 * [LỰA CHỌN GÓI DỊCH VỤ](lua-chon-goi-dich-vu.md)
 * [Quản Lý Kho](tinh-nang-co-ban/quan-ly-kho/README.md)
   * [QUÉT MÃ VẠCH NHANH TÌM MÃ VẬN ĐƠN](tinh-nang-co-ban/quan-ly-kho/quet-ma-vach-nhanh-tim-ma-van-don.md)
-  * [Cấu hình Trợ lý ảo hỗ trợ kiểm kho](tinh-nang-co-ban/quan-ly-kho/cau-hinh-tro-ly-ao-ho-tro-kiem-kho.md)
+  * [Cấu hình Trợ lý ảo hỗ trợ kiểm kho](tinh-nang-co-ban/quan-ly-kho/tro-ly-ao-ho-tro-kiem-kho-san-pham.md)
   * [Sử dụng trợ lý ảo trong quá trình kiểm kho](tinh-nang-co-ban/quan-ly-kho/su-dung-tro-ly-ao-trong-qua-trinh-kiem-kho.md)
 * [Tạo đơn hàng](tinh-nang-co-ban/tao-don-hang/README.md)
   * [Cài đặt extension](tinh-nang-co-ban/tao-don-hang/cai-dat-extension.md)

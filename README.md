@@ -1,3 +1,9 @@
+---
+description: >-
+  Phần mềm quản lý đơn giản, không thất thoát. Thiết kế tính năng dành riêng cho
+  nhà order. Miễn phí 30 ngày dùng thử
+---
+
 # Hướng dẫn sử dụng cơ bản
 
 {% content-ref url="README (1).md" %}
