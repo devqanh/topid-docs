@@ -12,11 +12,11 @@ Thực hiện bước đăng nhập vào tài khoản của bạn. Hệ thống 
 
 * Bấm dấu +
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Quý khách nạp tiền vào hệ thống theo mã QR để có số dư ở ví&#x20;
 * Chọn gói cần nâng cấp và bấm vào nút **Gia hạn gói**
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###

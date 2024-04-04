@@ -12,5 +12,5 @@
 
 * Sau khi quét sẽ hiện popup mã vận đơn và thay đổi trạng thái, bấm nút **Cập nhật**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
