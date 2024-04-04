@@ -9,15 +9,29 @@ description: >-
 
 Trợ lý ảo sẽ tự động đọc mã trên hình ảnh và tìm trong đơn hàng mã vận đơn tương ứng. Đổi trạng thái **về kho VN** đồng thời gửi tin nhắn thông báo tới khách hàng
 
-### Bước 1: Truy cập trang quản lý kho
+### Bước 1:  Chọn cài đặt cửa hàng -> chọn bánh răng&#x20;
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2: Sử dụng máy quét mã vạch hoặc camera điện thoại&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Máy quét mã vạch sử dụng không dây trên máy tính và điện thoại do topID cung cấp</p></figcaption></figure>
+Nhập ID định danh lấy được từ telegram
 
-* Sau khi quét sẽ hiện popup mã vận đơn và thay đổi trạng thái, bấm nút **Cập nhật**
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+**Hướng dẫn thao tác lấy mã định danh từ telegram. Bạn cần tải app telegram và đăng ký, đăng nhập tài khoản**
+
+* Nhập vào ô tìm kiếm cụm từ "Trợ lý ảo kiểm kho - Topid" để tìm bot
+
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+* Như hình mô tả sau đó bấm **menu** chọn **Lấy mã định danh**
+
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+
+* Sau khi thao tác sẽ hiện thông báo mã định danh, copy mã đó điền mã điền vào mục **Cài đặt trợ lý ảo** và bấm **cập nhật**
+
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
