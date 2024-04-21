@@ -3,14 +3,14 @@
 ### Bước 1: Truy cập mục Quản lý kho
 
 * Nhập tên kho, địa chỉ, số điện thoại, khu vực
-* Hệ thống yêu cầu khai báo đầy đủ kho ở khu vực ở VN và TQ &#x20;
-* Sau bấm nút Lưu
+* Hệ thống yêu cầu khai báo đầy đủ kho ở khu vực ở Việt Nam và Trung Quốc
+* Sau đó, bấm nút **Lưu**
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2: Chọn tính năng "Thống kê"
 
-Sau khi giao diện chính của **Trang hệ thống** đưaợc hiện ra. Bạn hãy chọn vào **Thống kê**&#x20;
+Sau khi giao diện chính của **Trang hệ thống** được hiện ra. Bạn hãy chọn vào **Thống kê**&#x20;
 
 ![](<../../.gitbook/assets/image (16) (1).png>)
 
