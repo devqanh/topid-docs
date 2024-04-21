@@ -4,6 +4,6 @@
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-* Sau khi đơn hàng được thanh toán đầy đủ ( Khách hàng không có công nợ ) -> đơn hàng sẽ xuất hiện nút **duyệt nhận hoa hồng.** Khi kích hoạt thì tiền hoa hồng trước đó điền sẽ tự cộng tiền vào cho cộng tác viên đó
+* Sau khi đơn hàng được thanh toán đầy đủ (Khách hàng không có công nợ) -> đơn hàng sẽ xuất hiện nút **duyệt nhận hoa hồng.** Khi kích hoạt thì tiền hoa hồng trước đó điền sẽ tự cộng tiền vào cho cộng tác viên đó
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
