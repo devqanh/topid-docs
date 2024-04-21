@@ -30,5 +30,5 @@ Một đường dẫn **"Đặt lại mật khẩu"** sẽ gửi vào email củ
 
 <figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-* Điền mật khẩu mới và bấm **Đổi mật khẩu**
+* Điền mật khẩu mới và chọn **Đổi mật khẩu**
 
